@@ -1,0 +1,17 @@
+{
+    "localhost": {
+        "genAIModel":"0x5FbDB2315678afecb367f032d93F642f64180aa3",
+        "genAIModelController":"0x5FbDB2315678afecb367f032d93F642f64180aa3",
+        "genAIModel2":""
+        
+    },
+    "mumbai": {
+        "genAIModel":"0x57Ea683dbF2CbE9377223d4ea3c03c6C673F17c7",
+        "genAIModelController":"0xdEde362c937883216B9511223A20E6d26d2A5Dce",
+        "genAIModel2":"0x55E644e6ab3b5a7FE0eFcc12D4beBC0BA1b49A24"
+    },
+    "mainnet": {
+        "genAIModel":"",
+        "genAIModelController":""
+    }
+}
